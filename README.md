@@ -66,6 +66,6 @@ This passes the PDF unmodified to Linux which handles all filtering itself.
 
 [Linux installation instructions](https://github.com/TheGU/ubuntu_thermal_printer_setup/tree/main)
 
-[rastertospl binary](https://fs.tscprinters.com/en/dl/3/3445)
+[rastertospl macos binary, requires extracting .pkg](https://fs.tscprinters.com/en/dl/3/3445)
 
-[Alternatively search for driver here. Mobile Printers -> Alpha Series 4-Inch Performance Mobile RFID Printers -> Driver -> MAC driver TSC-1.29](https://emea.tscprinters.com/en/downloads)
+[Alternatively search for drivers here. Mobile Printers -> Alpha Series 4-Inch Performance Mobile RFID Printers -> Driver](https://emea.tscprinters.com/en/downloads)
